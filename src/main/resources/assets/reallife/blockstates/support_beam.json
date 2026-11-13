@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=x": { "model": "reallife:block/support_beam", "x": 90, "y": 90 },
+    "axis=y": { "model": "reallife:block/support_beam" },
+    "axis=z": { "model": "reallife:block/support_beam", "x": 90 }
+  }
+}

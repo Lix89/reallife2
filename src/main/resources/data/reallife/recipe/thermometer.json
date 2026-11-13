@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["C", "R", "C"],
+  "key": { "C": "minecraft:copper_ingot", "R": "minecraft:redstone" },
+  "result": { "id": "reallife:thermometer", "count": 1 }
+}
